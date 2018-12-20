@@ -1,2 +1,8 @@
 Dòng 1
 Add line 2 and revert
+Revert
+Revert
+Revert
+Revert
+Revert
+Revert
