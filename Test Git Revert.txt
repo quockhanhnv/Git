@@ -1,4 +1,5 @@
 Dòng 1
+<<<<<<< HEAD
 Add line 2 and revert
 Revert
 Revert
@@ -8,3 +9,6 @@ Revert
 Revert
 
 hhhh
+=======
+Add line 2 and revert
+>>>>>>> parent of 8ddd258... add some lines revert
